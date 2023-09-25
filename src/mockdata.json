@@ -1,0 +1,57 @@
+[
+  {
+    "createdOn": "00 - 1:00 am",
+    "fileName": null,
+    "annotationId": null,
+    "displayFrom": "James Glover",
+    "day": "Monday"
+  },
+  {
+    "createdOn": "1:00 - 2:00 am",
+    "fileName": null,
+    "annotationId": null,
+    "displayFrom": "James Glover",
+    "day": "Tuesday"
+  },
+  {
+    "createdOn": "2:00 - 3:00 am",
+    "fileName": null,
+    "annotationId": null,
+    "day": "Wednesday"
+  },
+  {
+    "createdOn": "4:00 - 5:00 am",
+    "fileName": null,
+    "annotationId": null,
+    "displayFrom": "James Glover",
+    "day": "Thursday"
+  },
+  {
+    "createdOn": "5:00 - 6:00 am",
+    "fileName": null,
+    "annotationId": null,
+    "displayFrom": "James Glover",
+    "day": "Friday"
+  },
+  {
+    "createdOn": "6:00 - 7:00 am",
+    "fileName": null,
+    "annotationId": null,
+    "displayFrom": "James Glover",
+    "day": "Saturday"
+  },
+  {
+    "createdOn": "7:00 - 8:00 am",
+    "fileName": null,
+    "annotationId": null,
+    "displayFrom": "James Glover",
+    "day": "Sunday"
+  },
+  {
+    "createdOn": "8:00 - 9:00 am",
+    "fileName": null,
+    "annotationId": null,
+    "displayFrom": "James Glover",
+    "day": "Monday"
+  }
+]
